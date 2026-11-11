@@ -4,7 +4,7 @@
 
 **方式一：一句话让 AI 装（推荐）**
 在 dsh 会话中直接发送：
-> "帮我安装这个 skill：https://github.com/你的用户名/windows-cli-env/archive/refs/heads/main.zip ，下载解压到 ~/.dsh/skills/windows-cli-env"
+> "帮我安装这个 skill：https://github.com/eutxs/windows-cli-env/archive/refs/heads/main.zip ，下载解压到 ~/.dsh/skills/windows-cli-env"
 
 **方式二：手动下载**
 1. 下载本仓库的 ZIP 压缩包。
