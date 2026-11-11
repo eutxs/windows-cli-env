@@ -1,3 +1,7 @@
+# windows-cli-env
+
+> **For DeepSeek Harness only.** 这个 skill 假定宿主是 DSH：靠 `skill` 工具的 `resourceBase=directory` 加载 `references/`，靠 `ask_user_question` 弹窗逐项询问。换别的 agent 宿主，这两处的调用方式要自己改。
+
 ## 🚀 如何安装
 
 这是一个纯文本的 Agent Skill。不需要任何安装程序，AI 自己就能装。
